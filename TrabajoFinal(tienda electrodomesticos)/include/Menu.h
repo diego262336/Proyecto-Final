@@ -24,7 +24,7 @@ void printCategorias();
 void printComponentes();
 
 //Variables globales
-int p0,p1,p2,p3,p4,p5;
+int p0,p1,p2,p3;
 int op,cat,lo;
 int edad,cantidad;
 float precio,capital;
