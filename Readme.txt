@@ -1,7 +1,7 @@
 
 Base de datos
 *************
-Este proyecto final consiste en una base de datos de una tienda de electromesticos 
+Mi proyecto final consiste en una base de datos de una tienda de electromesticos 
 en el que tenemos 5 opciones :
 
 
