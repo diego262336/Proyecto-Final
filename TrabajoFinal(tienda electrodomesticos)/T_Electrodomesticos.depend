@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1512033401 source:d:\t_electrodomesticos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<string>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"Menu.h"
+
+1512027164 source:d:\t_electrodomesticos\src\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<string>
+
+1512034568 d:\t_electrodomesticos\include\clientes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
+1512028451 source:d:\t_electrodomesticos\src\menu.cpp
+
+1512037522 d:\t_electrodomesticos\include\menu.h
+	"Clientes.h"
+	"Producto.h"
+	"Televisor.h"
+	"Cocina.h"
+	"Refrigeradora.h"
+	<iostream>
+	<map>
+	<string>
+
+1512028451 source:d:\t_electrodomesticos\src\producto.cpp
+
+1512019978 d:\t_electrodomesticos\include\producto.h
+	<iostream>
+
+1512028283 d:\t_electrodomesticos\include\televisor.h
+	"Producto.h"
+	<fstream>
+
+1512027164 d:\t_electrodomesticos\include\cocina.h
+	"Producto.h"
+	"fstream"
+
+1512028267 d:\t_electrodomesticos\include\refrigeradora.h
+	"Producto.h"
+	<fstream>
+
+1512030843 source:d:\t_electrodomesticos\src\cocina.cpp
+	"Cocina.h"
+	<string>
+	<stdlib.h>
+
+1512030843 source:d:\t_electrodomesticos\src\refrigeradora.cpp
+	"Refrigeradora.h"
+	<string>
+
+1512030843 source:d:\t_electrodomesticos\src\televisor.cpp
+	"Televisor.h"
+	<string>
+
