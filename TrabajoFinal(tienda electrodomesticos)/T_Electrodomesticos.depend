@@ -62,3 +62,128 @@
 	"Televisor.h"
 	<string>
 
+1512441873 source:d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<string>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"Menu.h"
+
+1512442767 d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\include\menu.h
+	"Clientes.h"
+	"Producto.h"
+	"Televisor.h"
+	"Cocina.h"
+	"Refrigeradora.h"
+	<iostream>
+	<string>
+
+1512028574 d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\include\clientes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
+1512028574 d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\include\producto.h
+	<iostream>
+
+1512442767 d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\include\televisor.h
+	"Producto.h"
+	<fstream>
+
+1512442767 d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\include\cocina.h
+	"Producto.h"
+	"fstream"
+
+1512028574 d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\include\refrigeradora.h
+	"Producto.h"
+	<fstream>
+
+1512028574 source:d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\src\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<string>
+
+1512442767 source:d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\src\cocina.cpp
+	"Cocina.h"
+	<string>
+	<stdlib.h>
+
+1512028574 source:d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\src\menu.cpp
+
+1512028574 source:d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\src\producto.cpp
+
+1512028574 source:d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\src\refrigeradora.cpp
+	"Refrigeradora.h"
+	<string>
+
+1512028574 source:d:\proyecto-final-master\trabajofinal(tienda electrodomesticos)\src\televisor.cpp
+	"Televisor.h"
+	<string>
+
+1512444070 source:d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<vector>
+	<string>
+	<algorithm>
+	<iterator>
+	<fstream>
+	"Menu.h"
+
+1512442915 d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\include\menu.h
+	"Clientes.h"
+	"Producto.h"
+	"Televisor.h"
+	"Cocina.h"
+	"Refrigeradora.h"
+	<iostream>
+	<map>
+	<string>
+
+1512028574 d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\include\clientes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
+1512028574 d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\include\producto.h
+	<iostream>
+
+1512442767 d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\include\televisor.h
+	"Producto.h"
+	<fstream>
+
+1512442767 d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\include\cocina.h
+	"Producto.h"
+	"fstream"
+
+1512028574 d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\include\refrigeradora.h
+	"Producto.h"
+	<fstream>
+
+1512028574 source:d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\src\clientes.cpp
+	"Clientes.h"
+	<iostream>
+	<string>
+
+1512442767 source:d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\src\cocina.cpp
+	"Cocina.h"
+	<string>
+	<stdlib.h>
+
+1512028574 source:d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\src\menu.cpp
+
+1512028574 source:d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\src\producto.cpp
+
+1512028574 source:d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\src\refrigeradora.cpp
+	"Refrigeradora.h"
+	<string>
+
+1512028574 source:d:\trabajofinal(tienda electrodomesticos)terminado\trabajofinal(tienda electrodomesticos)\src\televisor.cpp
+	"Televisor.h"
+	<string>
+

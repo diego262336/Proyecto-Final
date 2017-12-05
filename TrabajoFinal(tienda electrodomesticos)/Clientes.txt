@@ -1,2 +1,1 @@
-
-0 juan_d simon_bolivar 45 m 8000
+0 juan simon_bolivar 20 M 20000

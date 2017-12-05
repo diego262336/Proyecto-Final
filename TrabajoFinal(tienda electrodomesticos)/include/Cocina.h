@@ -2,6 +2,9 @@
 #define COCINA_H
 #include "Producto.h"
 #include "fstream"
+
+
+//patron de diseño singleton declaracion de la clase
 class Cocina : public Producto
 {
     private:

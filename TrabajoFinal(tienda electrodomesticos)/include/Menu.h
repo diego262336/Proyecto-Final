@@ -6,7 +6,7 @@
 #include "Cocina.h"
 #include "Refrigeradora.h"
 #include <iostream>
-#include <map>
+#include <map>   //me permite contener dos elementos eventualmente de tipos diferentes
 #include <string>
 
 
@@ -419,7 +419,7 @@ public:
     {
         int compra;
         vector <int> precios;
-        map <int,int> stocks;
+        map <int,int> stocks; //array asosiativo
         vector <int> compras;
         string codCliente;
         char codProducto[3];
@@ -641,39 +641,40 @@ void comprobar8Op(int &x){
 
 void printMenu()
 {
-    system("pause");
-    system("cls");
-    cout<<"\t\t  ___  ___ ___  ___  __  ___  ___   __      "<<endl
-        <<"\t\t  |__) |__ | _   |  (__   |   |__) |  |     "<<endl
-        <<"\t\t  |  | |__ |__) _|_  __)  |   |  | |__|     "<<endl<<endl<<endl
 
-        <<" 1.Ingresar cliente"  <<endl
-        <<" 2.Ingresar producto" <<endl
-        <<" 3.Lista de productos"<<endl
-        <<" 4.Buscar producto"   <<endl
-        <<" 5.Vender producto"   <<endl
-        <<" 6.Salir\n"           <<endl
+    system("pause");
+    system("color f0");
+    system("cls");
+    cout<<"\t\t  ___  ___ ___  ___  __  ___  ___   __   "<<endl
+        <<"\t\t  |__) |__ | _   |  (__   |   |__) |  |  "<<endl
+        <<"\t\t  |  | |__ |__) _|_  __)  |   |  | |__|  "<<endl<<endl<<endl;
+
+    system("color f9");
+    cout<<" 1.Ingresar cliente"<<endl
+        <<" 2.Ingresar producto"<<endl
+        <<" 3.Listar productos disponibles"<<endl
+        <<" 4.Buscar un producto"<<endl
+        <<" 5.Vender un producto"<<endl
+        <<" 6.Salir del programa\n" <<endl
         <<"Ingrese una opcion: ";
 }
 
 void printCategorias()
 {
 
-    cout<<"\n 1. Cocinas "   <<endl
-        <<" 2. Refrigeradoras "    <<endl
-        <<" 3. Televisores \n"      <<endl
+    cout<<"\n 1. Cocinas "<<endl
+        <<" 2. Refrigeradoras "<<endl
+        <<" 3. Televisores \n"<<endl
         <<"Ingrese una opcion: ";
 }
 void printComponentes(){
-    cout<<"Componentes"    <<endl
-        <<"1. Quemadores"   <<endl
-        <<"2. Grilla_del_quemador"      <<endl
+    cout<<"Componentes"<<endl
+        <<"1. Quemadores"<<endl
+        <<"2. Grilla_del_quemador"<<endl
         <<"3. Horno" <<endl
-        <<"4. Temporizador"         <<endl
-        <<"5. electrica"         <<endl
-        <<"6. gas" <<endl<<endl;
+        <<"4. Temporizador"<<endl
+        <<"5. electrica"<<endl
+        <<"6. gas"<<endl<<endl;
 }
-
-
 
 #endif // MENU_H

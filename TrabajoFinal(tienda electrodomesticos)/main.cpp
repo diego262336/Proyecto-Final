@@ -9,8 +9,8 @@
 using namespace std;
 int main()
 {
-    system("color f1");
-    system("Title Proyecto Base de Datos");
+    //system("color f0");
+    //system("Title Proyecto Base de Datos");
     //Declaracion de comandos
     Opcion *opcion= new Opcion;
     // concrete Command objects

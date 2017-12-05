@@ -1,2 +1,1 @@
-I0 mabe Refrigeradora 1000 4 Puertas deslizables No Frost 2metros
-R0 indurama Refrigeradora 800 5 Una puerta Frio Directo 1metro
+R3 mabe Refrigeradora 700 1 Puertas deslizables No Frost 2

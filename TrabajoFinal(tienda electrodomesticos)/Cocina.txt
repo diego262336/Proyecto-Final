@@ -1,2 +1,1 @@
-
-C0 mabe cocina 700 8 gas
+C9 mabe cocina 1000 5 electrica

@@ -122,7 +122,9 @@ int Cocina::getCantidad(string miCodigo)
     return cantidad;
 }
 
-//singleton
+// patron de diseño singleton archivo cpp
+
+//puntero de la clase
 Cocina* Cocina::instance=0;
 
 Cocina* Cocina::getInstance()
@@ -143,13 +145,13 @@ void Cocina::getProducto(string miCodigo)
         {
             if(codigo==miCodigo)
             {
-                cout<< "Datos del Producto:"        <<endl
-                    <<"Codigo: "<<codigo            <<endl
-                    <<"Nombre: "<<nombre            <<endl
-                    <<"Categoria: "<<categoria      <<endl
-                    <<"Precio: $"<<precio           <<endl
-                    <<"Stock: "<<cantidad           <<endl
-                    <<"Tipo: "<<tipo          <<endl<<endl<<endl;
+                cout<< "Datos del Producto:"<<endl
+                    <<"Codigo: "<<codigo<<endl
+                    <<"Nombre: "<<nombre<<endl
+                    <<"Categoria: "<<categoria<<endl
+                    <<"Precio: $"<<precio<<endl
+                    <<"Stock: "<<cantidad<<endl
+                    <<"Tipo: "<<tipo<<endl<<endl<<endl;
                     break;
             }
         }

@@ -5,7 +5,7 @@
 class Televisor : public Producto
 {
     private:
-        //int codigo; // letra,calidad,caracteristicas,tipo del pantalla, tamaño
+        // codigo letra,calidad,caracteristicas,tipo del pantalla, tamaño
         float tam;
         string caracteristicas,pantallaTy,calidad;
         Televisor();
